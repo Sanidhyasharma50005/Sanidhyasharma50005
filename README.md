@@ -26,12 +26,10 @@ I build **production-grade web applications** that solve real-world problems —
 
 ## 🚀 Featured Projects
 
-### 🚂 [BlockOptim — AI Railway Block Planning System](https://github.com/Sanidhyasharma50005/blockoptim-ai-assistant)
+### 🚂 [BlockOptim — AI Railway Block Planning System](https://github.com/Sanidhyasharma50005/blockoptim-ai-assistant) &nbsp; [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://blockoptim-ai-assistant.onrender.com/)
 > **SIH-Level Full-Stack Decision Support System for Indian Railways**
 
 An **AI-powered optimization engine** that automates railway block section scheduling using **Google OR-Tools CP-SAT constraint programming**. Built for division controllers managing 22+ trains across complex single/double-line networks.
-
-🔴 **[Live Demo →](https://blockoptim-ai-assistant.onrender.com/)**
 
 **What makes this impressive:**
 - 🧠 **Exact Constraint Solver** — OR-Tools CP-SAT with multi-objective optimization (not heuristics)
@@ -50,22 +48,20 @@ An **AI-powered optimization engine** that automates railway block section sched
 
 | Time-Distance Gantt Chart | Network Topology |
 |:---:|:---:|
-| ![Gantt](https://github.com/Sanidhyasharma50005/blockoptim-ai-assistant/blob/main/slide_assets/1_time_distance_gantt.png?raw=true) | ![Topology](https://github.com/Sanidhyasharma50005/blockoptim-ai-assistant/blob/main/slide_assets/2_network_topology.png?raw=true) |
+| ![Gantt](https://github.com/Sanidhyasharma50005/blockoptim-ai-assistant/blob/master/slide_assets/1_time_distance_gantt.png?raw=true) | ![Topology](https://github.com/Sanidhyasharma50005/blockoptim-ai-assistant/blob/master/slide_assets/2_network_topology.png?raw=true) |
 
 | AI Explainability Drawer | KPI Benchmark Dashboard |
 |:---:|:---:|
-| ![Explainer](https://github.com/Sanidhyasharma50005/blockoptim-ai-assistant/blob/main/slide_assets/3_ai_explainability_drawer.png?raw=true) | ![KPI](https://github.com/Sanidhyasharma50005/blockoptim-ai-assistant/blob/main/slide_assets/4_kpi_benchmark_dashboard.png?raw=true) |
+| ![Explainer](https://github.com/Sanidhyasharma50005/blockoptim-ai-assistant/blob/master/slide_assets/3_ai_explainability_drawer.png?raw=true) | ![KPI](https://github.com/Sanidhyasharma50005/blockoptim-ai-assistant/blob/master/slide_assets/4_kpi_benchmark_dashboard.png?raw=true) |
 
 </details>
 
 ---
 
-### 🌴 [Voyage — Smart India Travel Assistant & AI Trip Planner](https://github.com/Sanidhyasharma50005/travel-assistant)
+### 🌴 [Voyage — Smart India Travel Assistant & AI Trip Planner](https://github.com/Sanidhyasharma50005/voyage-ai) &nbsp; [![Live App](https://img.shields.io/badge/Live-App-brightgreen?style=flat-square)](https://voyage-ai-orpin.vercel.app/)
 > **Production SaaS Platform with Auth, Payments, and AI-Powered Itineraries**
 
 A **full-featured travel platform** with AI trip planning, real-time train/flight/bus booking advisors, live weather, GPS-based "Near Me" discovery, and integrated Razorpay payments — deployed on Vercel with zero cold starts.
-
-🟢 **[Live App →](https://voyage-ai-orpin.vercel.app/)**
 
 **What makes this impressive:**
 - 🤖 **AI Trip Planner** — Google Gemini 2.0 Flash generates day-by-day itineraries with cost estimates
