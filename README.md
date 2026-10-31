@@ -15,6 +15,7 @@ I build **production-grade web applications** that solve real-world problems —
 ✅ Full-stack apps from architecture to deployment
 ✅ AI/ML integration (Google Gemini, OR-Tools, Constraint Solvers)
 ✅ Real-time systems (WebSockets, live dashboards)
+✅ IoT & embedded systems (ESP32, MQTT, hardware fail-safes)
 ✅ Production databases with RLS security policies
 ✅ Payment integration (Razorpay)
 ✅ Docker containerization & CI/CD
@@ -72,6 +73,23 @@ A **full-featured travel platform** with AI trip planning, real-time train/fligh
 - 🌦️ **Live APIs** — Open-Meteo weather, real-time currency converter, Haversine distance sorting
 
 **Tech:** `Next.js 16` `React 19` `TypeScript` `Tailwind CSS 4` `Supabase` `PostgreSQL` `Google Gemini AI` `Razorpay` `Vercel`
+
+---
+
+### ⚡ [AURA — Smart Home OS & Real-Time IoT Dashboard](https://github.com/Sanidhyasharma50005/aura-smart-home) &nbsp; [![Live App](https://img.shields.io/badge/Live-App-brightgreen?style=flat-square)](https://aura-smart-home.vercel.app/)
+> **Real-Time IoT Control Platform with MQTT, Fuzzy Logic & ESP32 Firmware Generation**
+
+A **production-ready Smart Home OS and energy management dashboard** engineered for physical microcontrollers (ESP32-WROOM-32) and modern web clients. Features non-linear fuzzy climate logic, live MQTT telemetry, deterministic safety state machines, and empirical energy reductions — deployed on Vercel.
+
+**What makes this impressive:**
+- 📡 **Real MQTT WebSockets Engine** — Direct pub/sub communication with local Mosquitto or cloud brokers with live sensor telemetry
+- 🧠 **Mamdani Fuzzy Inference Engine** — Non-linear membership functions and centroid defuzzification optimizing fan speed, lighting, and AC compressor cycles
+- ⚡ **ESP32 Firmware Code Generator** — Automatically generates fully compilable C++ Arduino/PlatformIO code matching active devices, GPIOs, and MQTT topics
+- 🚨 **Deterministic Hardware Killswitch** — Master E-STOP active-LOW fail-safe system forcing all optocoupled relays open immediately
+- 📊 **Dynamic Power Meter & 24h Load Curve** — Real-time wattage calculations, configurable tariff analysis, and verified 25.0% energy reduction vs unmanaged timers
+- 🎨 **Defined Tactile UI with Dual Themes** — Full-width 3-column responsive layout, 1-click Light/Dark modes, iOS switches, and rotating fan CSS animations
+
+**Tech:** `JavaScript (ES6+)` `MQTT.js (WebSockets)` `Tailwind CSS` `Chart.js` `ESP32 / C++` `Web Audio API` `Vercel`
 
 ---
 
@@ -156,6 +174,7 @@ I'm available for **freelance web development** projects. Whether you need a lan
 | 🌐 Full-Stack Web Apps | React, Next.js, Python backends |
 | 🤖 AI-Integrated Products | LLM APIs, optimization engines, chatbots |
 | 📊 Dashboards & Data Viz | D3.js, real-time WebSocket dashboards |
+| ⚡ IoT & Hardware Dashboards | ESP32, MQTT WebSockets, real-time telemetry |
 | 🔐 Auth & Payment Systems | Supabase Auth, Razorpay, Stripe |
 | 🐳 Deployment & DevOps | Docker, Vercel, Render, CI/CD |
 
