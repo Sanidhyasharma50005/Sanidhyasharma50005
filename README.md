@@ -2,9 +2,8 @@
 
 ### Full-Stack Developer · AI/ML Enthusiast · Freelancer
 
-I build **production-grade web applications** that solve real-world problems — from AI-powered railway optimization engines to intelligent travel platforms serving real users. Currently a CS student who ships code that works at scale.
+I build **production-grade web applications** that solve real-world problems — from AI-powered railway optimization engines to intelligent travel platforms serving real users. Currently a CS student who ships code that works at scale. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanidhya-sharma-43894a430)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanidhyasharma50005@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://voyage-ai-orpin.vercel.app/)
 
